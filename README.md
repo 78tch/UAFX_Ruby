@@ -2,16 +2,16 @@
 ## 1.資料
 ### 1-1.メーカーHP 設定ソフトのダウンロードページ
 https://www.uaudio.jp/uafx/start  
-必須なのはスマホ版。  
-パソコン版は機能が少なく、不要かもしれない。
+プリセットをザッピングするなど、普段使うのはスマホ版。  
+パソコン版は機能が少ないが、ファームウェアアップデートだけはパソコン版でしかできない。  
 ### 1-2.メーカーHP マニュアル（英語）
 https://help.uaudio.com/hc/en-us/sections/360012250151-UAFX-Pedals-Documentation?_gl=1*1eb2g5u*_ga*OTE2NTcwNDA0LjE2ODA5NjM1OTA.*_ga_CPJ5176QFT*MTY4MDk2MzU5MC4xLjAuMTY4MDk2MzU5MC4wLjAuMA..
 ### 1-3.メーカーHP 製品ページ
-https://www.uaudio.jp/guitar-pedals/ruby-63-top-boost-amplifier.html
+https://www.uaudio.jp/guitar-pedals/ruby-63-top-boost-amplifier.html  
 ### 1-4.代理店HP
 https://hookup.co.jp/support/product/uafx-ruby-63-top-boost-amplifier/manuals  
 日本語のマニュアルはこちらにあるので、主にこちらが参考になる。  
-
+  
 ## 2.設定
 ### 2-1.初期化方法
 初期化は基本のキではあるが、ことUAFXに関していえば、ペダル本体に保存されるのは「プリセット1つ」だけなので、初期化する必要性はあまりない。  
