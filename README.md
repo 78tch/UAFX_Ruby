@@ -88,7 +88,12 @@ TREBLEが効くのはBRILチャンネルのみ。
 9.  FSでオンオフできるのは「BIBRATO」か、「BOOST」かのどちらかなので、どちらをON/OFFしたいか考える。
 10. 「UAFX Control モバイルアプリ」でFS設定を「Boost | Live/Preset」または「Vibrato | Live/Preset」にする。
 
-### 5.「Recallシート」
+### 5.各チャンネルで使うノブまとめ
+1. 全チャンネルで使う：「VOLUME」、「CUT」、「OUTPUT」、「BOOST」、altにして「ROOM」
+2. 「BRIL」チャンネルだけで使う：「BASS」、「TREBLE」
+3. 「VIB」チャンネルだけで使う：altにして「SPEED」、「INTENSITY」
+
+### 6.「Recallシート」
 https://media.uaudio.com/support/uafx/uafx-control-maps/UAFX+Ruby+Recall+Sheet.pdf  
 UAFXペダルの図。設定値を書き込んでメモにすると便利。  
   
