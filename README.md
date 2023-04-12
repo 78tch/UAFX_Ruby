@@ -76,7 +76,16 @@ TREBLEが効くのはBRILチャンネルのみ。
 - これら2つのノブを正午の位置付近まで上げると、中域が増え、よりナチュラルでフラットな、充実したトーンになる。  
 - これら2つのノブを同じような位置に調整することで、使いやすいサウンドを見つけやすい。  
   
-### 4.お気に入り設定内容
+### 4.設定の手順
+1. まずはライブモードで、「BRIL」チャンネル、「NORM」チャンネル、「VIB」チャンネルの音を確認する。
+2. スピーカーは、「BRIL」はBlue Mod（上LEDが緑）、「NORM」はSILVER（上LEDが赤）、「VIB」は（？）から試すとよいかも。
+3. ノブ類はいずれも12時で始める。「VOLUME」、「CUT」、「OUTPUT」、（BRILのみ「BASS」、「TREBLE」）、「BOOST」、altにして「ROOM」、（VIBのみ「SPEED」、「INTENSITY」）
+4. 「UAFX Control モバイルアプリ」でFactoryやArtistのプリセットをオーディションする。
+5. 音色として使えるのはライブモードとプリセットモードの2つだけなので、プリセットスロットに入れたいプリセットを決める。
+6. ライブモードの時の音色を、ノブを使って設定する。
+7. ライブモードの設定が固まってきたら、改めてスピーカー（6種類）をオーディションする。
+8. FSでオンオフできるのは「BIBRATO」か、「BOOST」かのどちらかなので、どちらをON/OFFしたいか考える。
+9. 「UAFX Control モバイルアプリ」でFS設定を「Boost | Live/Preset」または「Vibrato | Live/Preset」にする。
 
 ### 5.「Recallシート」
 https://media.uaudio.com/support/uafx/uafx-control-maps/UAFX+Ruby+Recall+Sheet.pdf  
